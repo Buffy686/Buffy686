@@ -14,22 +14,12 @@ These projects were selected to demonstrate:
 4. **Practical Application**: Ready-to-implement solutions for facilities, municipalities, and policymakers
 
 ## Projects
-
+**[→ View COMPOST2026_DATA Projects](./COMPOST2026_DATA/)**
 ### 1. US Composting Policy Database & Geospatial Analysis
-
-**[→ View Project](./project1-policy-database/)**
-
----
 
 ### 2. Composting Process Monitoring: IoT Sensor Anomaly Detection
 
-**[→ View Project](./project2-sensor-anomaly-detection/)**
-
----
-
 ### 3. Organics Collection Route Optimization
-
-**[→ View Project](./project3-route-optimization/)**
 
 ---
 
